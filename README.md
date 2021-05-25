@@ -25,7 +25,7 @@ https://github.com/lambertoballan/handsonbow
 
 - 相关参数说明详见exercises_solutions.m
 
-- 实验报告详见doc文档
+- 实验报告详见pdf文档
 
   也可参阅：https://czardas42.github.io/post/visual_BoW/
 
